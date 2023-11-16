@@ -1,6 +1,6 @@
 Hi! I'm Rosie. I'm an 18 year old student currently completing my A-levels
 
-I'm intrested in all things tech, and plan to go to university next year to study Computer Science.
+I'm interested in all things tech, and plan to go to university next year to study Computer Science.
 
 Things I'm currently working on:
 -  Fractals! - I'm building up to creating a mandelbrot fractal in c#, but since I currently don't have any knowledge on mandelbrot fractals or c#, this has been a learning experience. My current work is to do with creating the chaos game in Python
